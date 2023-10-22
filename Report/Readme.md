@@ -24,6 +24,8 @@
 
 ![image](https://github.com/Andrzakourcev/Hello-world/assets/144477949/0a23f23e-68fc-479d-ad7a-de06102d1995)
 
+![image](https://github.com/Andrzakourcev/Hello-world/assets/144477949/4879272f-a9b2-493a-bf3d-55721eb80aec)
+
 
 # Подключение машин A и B
 Команда «ip» используется для настройки параметров сетевого интерфейса и назначения ему адреса в ОС Linux.
